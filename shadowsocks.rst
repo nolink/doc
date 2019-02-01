@@ -24,6 +24,6 @@ Installation::
     "workers": 1
   }
   
-  ssserver -d -c /etc/shadowsocks.json
+  ssserver -d start -c /etc/shadowsocks.json
 
 
